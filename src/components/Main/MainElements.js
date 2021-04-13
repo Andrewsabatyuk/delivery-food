@@ -60,3 +60,4 @@ export const MainBtn = styled.button`
 
 // https://www.youtube.com/watch?v=GlROncAX4XI&t=1101s
 // 33:20
+// https://github.com/briancodex/react-restaurant-website-v1/blob/main/src/components/Hero/HeroElements.js
